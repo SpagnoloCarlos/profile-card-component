@@ -65,8 +65,8 @@ With this project I learned the semantics of html y modular css
 3. Run the following command:
 
 ```bash
-  git clone https://github.com/SpagnoloCarlos/sunnyside
-  cd sunnyside
+  git clone https://github.com/SpagnoloCarlos/proile-card-component
+  cd proile-card-component
   npm install
   npm run dev
 ```
